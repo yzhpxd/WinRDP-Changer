@@ -1,0 +1,5 @@
+module win3389
+
+go 1.25.5
+
+require golang.org/x/sys v0.46.0 // indirect
